@@ -7,3 +7,5 @@ This repository contains materials created for GBUS 562: AI Language Models at t
 ## Weekly Work
 
 1. [week-01](week-01/) – [Connect Four](week-01/connect-four.html): a single-page browser game built with HTML, CSS and JavaScript. Play against a computer opponent with three difficulty levels (it searches several moves ahead using minimax with alpha-beta pruning), or switch to two-player mode to take turns on one screen.
+
+2. [Week 2](week-02/): a Prompt Lab web app for testing prompts against Claude, built with Claude Code.
