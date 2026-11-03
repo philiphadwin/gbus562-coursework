@@ -1,0 +1,22 @@
+[1] similarity 0.527  funds-availability-policy.html
+Funds Availability Policy (Version 3) - Check deposits
+
+For checks deposited at a branch or a Larkfield ATM, the first $275 of the day's check deposits is available on the next business day. The rest of the day's check deposits is available on the second business day after the day of deposit.
+
+[2] similarity 0.500  funds-availability-policy.html
+Funds Availability Policy (Version 3) - Mobile check deposits
+
+Checks deposited with the Larkfield mobile app follow the same availability as checks deposited at a branch. A member can deposit up to $5,000 per business day through the mobile app. Members should keep the paper check for 30 days after a mobile deposit, then destroy it.
+
+[3] similarity 0.432  card-dispute-procedure.html
+Debit Card Dispute Procedure (Version 4) - How much the member may have to pay
+
+A member's share of the loss from unauthorized debit card transactions depends on how quickly they report it. If the member reports a lost or stolen card within two business days of learning about it, they pay no more than $50. If they report it later than that, they may pay up to $500. If unauthorized transactions appear on a statement and the member does not report them within 60 days after the statement was sent, they may have to pay for transactions after those 60 days in full.
+
+[4] similarity 0.425  funds-availability-policy.html
+Funds Availability Policy (Version 3) - Business days and cutoff times
+
+A business day is Monday through Friday, except federal holidays. A deposit made before 5 p.m. on a business day is received that day. A deposit made after 5 p.m., or on a weekend or holiday, is received on the next business day.
+
+ANSWER
+Up to $275 of the deposit is available on the next business day [funds-availability-policy.html]. The remaining amount (in this case, $1,725) is available on the second business day after the day of deposit [funds-availability-policy.html].

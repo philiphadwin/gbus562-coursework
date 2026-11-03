@@ -1,0 +1,29 @@
+[1] similarity 0.710  consumer-fee-schedule.html
+Consumer Fee Schedule (Version 8) - Overdraft and returned item fees
+
+When Larkfield pays a check, debit card purchase, or automatic payment that overdraws a member's checking account, the overdraft fee is $29 per item paid. When Larkfield returns an item unpaid because the account does not have enough money, the returned item fee is $29 per item returned. No more than three overdraft or returned item fees are charged to one account in a single business day.
+No overdraft fee is charged if the account is overdrawn by $10 or less at the end of the business day.
+Members can link a savings account for overdraft transfers. An overdraft transfer from a linked savings account is free.
+
+[2] similarity 0.636  consumer-fee-schedule.html
+Consumer Fee Schedule (Version 8) - Checking account monthly fees
+
+Everyday Checking has no monthly service fee. Plus Checking has a monthly service fee of $8. The Plus Checking fee is waived for any month in which the account keeps a minimum daily balance of $1,000, or receives direct deposits totaling $500 or more.
+
+[3] similarity 0.582  consumer-fee-schedule.html
+Consumer Fee Schedule (Version 8) - Dormant accounts
+
+An account with no member-initiated activity for 24 months becomes dormant. A dormant account with a balance under $500 is charged $5 per month. Any deposit or withdrawal by the member ends dormant status.
+
+[4] similarity 0.542  consumer-fee-schedule.html
+Consumer Fee Schedule (Version 8) - Stop payments
+
+A stop payment on a check costs $30 per request. One request can cover a single check or a series of checks with consecutive numbers. A stop payment stays in effect for six months and can be renewed for another $30.
+
+ANSWER
+The overdraft fee is $29 per item paid when Larkfield pays a check, debit card purchase, or automatic payment that overdraws a member's checking account [consumer-fee-schedule.html].
+
+Exceptions/conditions noted in the source:
+- No more than three overdraft or returned item fees are charged to one account in a single business day [consumer-fee-schedule.html].
+- No overdraft fee is charged if the account is overdrawn by $10 or less at the end of the business day [consumer-fee-schedule.html].
+- An overdraft transfer from a linked savings account is free [consumer-fee-schedule.html].

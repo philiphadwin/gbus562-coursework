@@ -1,0 +1,27 @@
+[1] similarity 0.710  consumer-fee-schedule.html
+Consumer Fee Schedule (Version 8) - Overdraft and returned item fees
+
+When Larkfield pays a check, debit card purchase, or automatic payment that overdraws a member's checking account, the overdraft fee is $29 per item paid. When Larkfield returns an item unpaid because the account does not have enough money, the returned item fee is $29 per item returned. No more than three overdraft or returned item fees are charged to one account in a single business day.
+No overdraft fee is charged if the account is overdrawn by $10 or less at the end of the business day.
+Members can link a savings account for overdraft transfers. An overdraft transfer from a linked savings account is free.
+
+[2] similarity 0.693  consumer-fee-schedule-v7.html
+Consumer Fee Schedule (Version 7) - Overdraft and returned item fees
+
+When Larkfield pays a check, debit card purchase, or automatic payment that overdraws a member's checking account, the overdraft fee is $35 per item paid. When Larkfield returns an item unpaid because the account does not have enough money, the returned item fee is $35 per item returned. No more than four overdraft or returned item fees are charged to one account in a single business day.
+Members can link a savings account for overdraft transfers. An overdraft transfer from a linked savings account is free.
+
+[3] similarity 0.636  consumer-fee-schedule.html
+Consumer Fee Schedule (Version 8) - Checking account monthly fees
+
+Everyday Checking has no monthly service fee. Plus Checking has a monthly service fee of $8. The Plus Checking fee is waived for any month in which the account keeps a minimum daily balance of $1,000, or receives direct deposits totaling $500 or more.
+
+[4] similarity 0.634  consumer-fee-schedule-v7.html
+Consumer Fee Schedule (Version 7) - Checking account monthly fees
+
+Everyday Checking has no monthly service fee. Plus Checking has a monthly service fee of $8. The Plus Checking fee is waived for any month in which the account keeps a minimum daily balance of $1,000, or receives direct deposits totaling $500 or more.
+
+ANSWER
+The overdraft fee is $29 per item paid, and the returned item fee (when Larkfield returns an unpaid item due to insufficient funds) is also $29 per item returned [consumer-fee-schedule.html]. No more than three such fees are charged to one account in a single business day, and no overdraft fee applies if the account is overdrawn by $10 or less at the end of the business day [consumer-fee-schedule.html]. An overdraft transfer from a linked savings account is free [consumer-fee-schedule.html].
+
+Note: An earlier version of the fee schedule lists a $35 fee with a limit of four fees per day [consumer-fee-schedule-v7.html], but the current version (Version 8) sets the fee at $29 with a three-per-day limit [consumer-fee-schedule.html].

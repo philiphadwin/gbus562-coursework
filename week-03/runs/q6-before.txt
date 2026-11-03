@@ -1,0 +1,39 @@
+[1] similarity 0.250  consumer-fee-schedule.html
+Consumer Fee Schedule (Version 8) - Stop payments
+
+A stop payment on a check costs $30 per request. One request can cover a single check or a series of checks with consecutive numbers. A stop payment stays in effect for six months and can be renewed for another $30.
+
+[2] similarity 0.218  share-certificates.html
+Share Certificates (Version 5) - Dividend rates
+
+- 6-month share certificate: 3.05% annual percentage yield (APY).
+- 12-month share certificate: 3.40% APY.
+- 24-month share certificate: 3.55% APY.
+- 36-month share certificate: 3.60% APY.
+- 60-month share certificate: 3.75% APY.
+The rate is fixed when the certificate is opened and does not change during the term. Dividends are paid monthly and can stay in the certificate or be transferred to the member's savings or checking account.
+
+[3] similarity 0.218  consumer-fee-schedule.html
+Consumer Fee Schedule (Version 8) - Checking account monthly fees
+
+Everyday Checking has no monthly service fee. Plus Checking has a monthly service fee of $8. The Plus Checking fee is waived for any month in which the account keeps a minimum daily balance of $1,000, or receives direct deposits totaling $500 or more.
+
+[4] similarity 0.178  share-certificates.html
+Share Certificates (Version 5) - Terms and minimum deposit
+
+Larkfield offers share certificates with terms of 6, 12, 24, 36, and 60 months. The minimum opening deposit for any share certificate is $500. A member can hold any number of share certificates.
+
+[5] similarity 0.175  consumer-fee-schedule.html
+Consumer Fee Schedule (Version 8) - Overdraft and returned item fees
+
+When Larkfield pays a check, debit card purchase, or automatic payment that overdraws a member's checking account, the overdraft fee is $29 per item paid. When Larkfield returns an item unpaid because the account does not have enough money, the returned item fee is $29 per item returned. No more than three overdraft or returned item fees are charged to one account in a single business day.
+No overdraft fee is charged if the account is overdrawn by $10 or less at the end of the business day.
+Members can link a savings account for overdraft transfers. An overdraft transfer from a linked savings account is free.
+
+[6] similarity 0.172  share-certificates.html
+Share Certificates (Version 5) - At maturity
+
+When a share certificate matures, it renews automatically for the same term at the rate in effect on the renewal day. The member has a 10-day grace period after maturity to withdraw the money or change the term with no penalty.
+
+ANSWER
+The answer is not in the referenced documents. The sources provided cover stop payments, share certificates, and consumer checking/overdraft fees [consumer-fee-schedule.html] [share-certificates.html], but none address mortgage rates.
