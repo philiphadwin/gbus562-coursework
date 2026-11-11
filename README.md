@@ -11,3 +11,5 @@ This repository contains materials created for GBUS 562: AI Language Models at t
 2. [week-02](week-02/) – [Prompt Lab](week-02/prompt-lab.html): a web app for testing prompts against Claude, built with Claude Code.
 
 3. [week-03](week-03/) – Week 3: a RAG tool that answers questions from Copperline Manufacturing's finance documents, built with Claude Code.
+
+4. [week-04](week-04/) – Week 4: an AI agent that prepares replies to HR emails using tools from an MCP server, built with Claude Code.
