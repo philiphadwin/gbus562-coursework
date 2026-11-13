@@ -12,4 +12,4 @@ This repository contains materials created for GBUS 562: AI Language Models at t
 
 3. [week-03](week-03/) – Week 3: a RAG tool that answers questions from Copperline Manufacturing's finance documents, built with Claude Code.
 
-4. [week-04](week-04/) – Week 4: an AI agent that prepares replies to HR emails using tools from an MCP server, built with Claude Code.
+4. [week-04](week-04/) – Week 4: an AI agent that prepares replies to HR emails using tools from an MCP server, built with Claude Code. It can work on one email file, or (`--inbox`) on every unread email in a Gmail sandbox inbox, creating threaded Gmail reply drafts over IMAP; it never sends email. `load_inbox.py` fills the sandbox inbox with the sample emails.
